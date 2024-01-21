@@ -1,15 +1,18 @@
-    Note: For display flex to work, you have to add 
+@font-face{
+font-family: Quattrocento Sans;
+src: url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
+}
+
+@font-face{
+font-family: Montserrat;
+src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+}
+
     
-    .your-class-name{
-      display:flex;
-    }
-    
-    .your-class-name &gt; div {
-      position: static !important;
-    }
-    
-    */
-                            /* place css code */
+@font-face{
+font-family: Raleway;
+src: url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+}
                         </style>
                     </section>
                     <a rel="noreferrer" href="https://codedesign.ai/" target="_blank" class="footer-credit" style="display:block">🚀 Built with CodeDesign.ai</a>
